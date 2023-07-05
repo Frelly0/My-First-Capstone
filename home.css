@@ -76,6 +76,7 @@ hr {
   border: 5px solid #ec4427;
   padding: 10px 17px 10px 18px;
   color: #ec4427;
+  width: 130px;
 }
 
 /* Burger Menu */
@@ -311,6 +312,7 @@ hr {
   flex-direction: row;
   flex-wrap: wrap;
   width: 80%;
+  padding-top: 30px;
 }
 
 .featured-speaker {

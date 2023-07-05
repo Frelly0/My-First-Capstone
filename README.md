@@ -37,7 +37,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-You can find a live version of the website [here](https://frelly0.github.io/My-First-Capstone/)!
+You can find a live version of the website [here](https://frelly0.github.io/My-First-Capstone/home.html)! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
