@@ -36,7 +36,7 @@ hr {
 
 #socials {
   display: none;
-  padding: 0.5em;
+  padding: 0.5em 10em;
   background: #3e3e3e;
   color: #fff;
 }
@@ -52,7 +52,7 @@ hr {
 
 #nav {
   display: none;
-  padding: 0.5em 1.5em 0.5em 1.5em;
+  padding: 0.5em 10em 0.5em 5em;
 }
 
 #nav img {
@@ -226,7 +226,6 @@ hr {
 
 .card-container {
   display: flex;
-  width: 100%;
   flex-direction: row;
   flex-wrap: nowrap;
   margin: 5px;
@@ -243,7 +242,7 @@ hr {
   justify-content: space-around;
   padding: 5px;
   transition: 0.3s;
-  width: 20em;
+  width: 100%;
 }
 
 .program-card:hover {
@@ -297,8 +296,14 @@ hr {
 /* Featured Speakers */
 
 #featured {
-  margin: 20px 0 10px 0;
+  margin: 35px 0 20px 0;
   justify-items: center;
+}
+
+#featured hr {
+  width: 30px;
+  margin: 5px 0 15px 0;
+  border: 1px solid #ceb2b2;
 }
 
 #speakers {
@@ -339,6 +344,10 @@ hr {
   font-style: italic;
   line-height: 14.943px;
   letter-spacing: -0.2px;
+}
+
+#speaker-detail hr {
+  width: 20px;
 }
 
 #speaker-detail p {
@@ -486,7 +495,7 @@ hr {
 
   .program-card {
     height: 13em;
-    width: 8.5em;
+    width: 10.5em;
     text-align: center;
     grid-template-columns: auto;
     grid-template-rows: auto;

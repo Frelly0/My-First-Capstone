@@ -30,6 +30,7 @@ body {
   color: #515151;
   font-size: 1em;
   line-height: 25px;
+  margin: 20px;
   background-color: #fff;
 }
 
@@ -63,6 +64,8 @@ body {
 
 #summit > div {
   width: 80%;
+  gap: 10px;
+  padding-bottom: 50px;
 }
 
 #summit img {
@@ -143,7 +146,7 @@ body {
 
   #concierto {
     width: 40%;
-    height: 40vh;
+    height: 30vh;
     font-size: 1.7em;
   }
 
